@@ -1,0 +1,10 @@
+{
+    "name": "ScrapLinkedIn",
+    "description": "Esta extensión recolectará información de los resultados al realizar una búsqueda con la etiqueta 'fullstack'",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "./app/index.html"
+    },
+    "permissions": ["activeTab","scripting"]
+  }
